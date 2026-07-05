@@ -48,4 +48,4 @@ java -cp out Main
 | **TOTAL** | | **100** | | **100** |
 
 ## Link Video Penjelasan
-> TODO: tempel link YouTube video penjelasan kamu di sini
+> https://youtu.be/P_QPwHz5LhQ
